@@ -12,4 +12,4 @@ gradient should not be repeated (acyclic).<br>
 this one (cyclic).<br>
 • You are free to choose the colors but other than that your output should be similar to
 the example screenshot given below.<br>
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/mervesrn/GradientFill_JavaGUI/blob/main/Ekran%20Resmi%202021-07-08%2013.05.05.png)
